@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Xcode**
 
-- 👨‍💻 I am hobby  **I am developing applications on IOS as a hobby**
+- 👨‍💻 I am hobby  **Developing applications on IOS **
 
 - 📫 How to reach me **anarabbas458@gmail.com**
 
