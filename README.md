@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋 , I'm Anar Abbas</h1>
 
-- 🎓 I graduated from National Aviation Accademy and Uludag University Electric Electrical Engineering department.
-- - I am currently working as CEO at Anis Coin Finance.
-- 💌 You can reach me on [anarabbas458@gmail.com](mailto:anarabbas458@gmail.com)
+-  I graduated from National Aviation Accademy and Uludag University Electric Electrical Engineering department.
+-  I am currently working as CEO at Anis Coin Finance.
+-  You can reach me on [anarabbas458@gmail.com](mailto:anarabbas458@gmail.com)
+-  I am an iOS developer by hobby.
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
