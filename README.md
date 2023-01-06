@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **anarabbas458@gmail.com**
 
-- ⚡ Fun fact **I'm learning to code and I go to the GYM very often **
+- ⚡ Fun fact **I'm learning to code and I go to the GYM very often**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
