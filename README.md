@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [ANIS COIN FINANCE](https://aniscoin.finance)
 
-- 🌱 I’m currently learning **Xcode**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 I am hobby  **Developing applications on IOS**
 
