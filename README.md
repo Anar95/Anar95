@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [FREELANCER]
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **More Coding**
 
 - 👨‍💻 I am hobby  **Developing applications on IOS & Android**
 
