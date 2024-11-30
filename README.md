@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anar95&label=Profile%20views&color=0e75b6&style=flat" alt="anar95" /> </p>
 
-- 🔭 I’m currently working on  DivCode LLC 
+- 🔭 I’m currently working on  ABB
 
 - 🌱 I’m currently learning **More Coding**
 
