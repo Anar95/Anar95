@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anar Abbas</h1>
-<h3 align="center">I'm a Flutter mobile developer and QA engineer.</h3>
+<h3 align="center">I'm a QA engineer and developer.</h3>
 <img align="right" alt="Coding" with="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anar95&label=Profile%20views&color=0e75b6&style=flat" alt="anar95" /> </p>
